@@ -21,7 +21,8 @@ Pada praktikum Modul 2 ini, praktikan mempelajari dasar-dasar pengenalan dan per
 ## 📝 Tugas 2
 **Tanggal**: Selasa, 3 November 2026
 
-![Tugas 2](ss2.1.jpeg)(ss2.2.jpeg)
+![Tugas 2](ss2.1.jpeg) 
+![Tugas 2](ss2.2.jpeg) 
 
 **Kesimpulan Praktikum:**  
 Pada praktikum Modul 3 ini, praktikan mempelajari penerapan sistem navigasi (Routes) antar halaman, pembuatan halaman Login interaktif, dan penggunaan penyimpanan lokal (Local Storage) menggunakan package `shared_preferences`. Praktikan mengimplementasikan halaman login yang memvalidasi kredensial pengguna (username dan password), menyimpan data username ke dalam local storage menggunakan `SharedPreferences.setString()`, kemudian membacanya kembali untuk ditampilkan pada halaman utama (`HomePage`). Selain itu, praktikan juga mempelajari cara menampilkan dialog (`AlertDialog`) sebagai respons hasil validasi, serta mengintegrasikan komponen navigasi samping (`Drawer`) dengan widget `Sidemenu` yang memuat daftar menu navigasi antar halaman.
